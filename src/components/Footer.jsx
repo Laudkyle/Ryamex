@@ -36,7 +36,7 @@ const Footer = () => {
           <div>
             <h4 className="text-lg font-semibold mb-4">Contact Info</h4>
             <address className="not-italic text-gray-400 space-y-2">
-              <p>123 Distribution Street</p>
+              
               <p>Hse. No. B921 
 Naa Kwakor Street</p>
               <p> New Gbawe, Ghana</p>
