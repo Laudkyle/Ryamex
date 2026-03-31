@@ -37,10 +37,11 @@ const Footer = () => {
             <h4 className="text-lg font-semibold mb-4">Contact Info</h4>
             <address className="not-italic text-gray-400 space-y-2">
               <p>123 Distribution Street</p>
-              <p>Industrial Area, Accra</p>
+              <p>Hse. No. B921 
+Naa Kwakor Street, New Gbawe</p>
               <p>Ghana</p>
-              <p>Phone: +233 24 123 4567</p>
-              <p>Email: info@ryamexventures.com</p>
+              <p>Phone: 0244730898, 0302336998</p>
+              <p>Email: ryamexyz@gmail.com</p>
             </address>
           </div>
         </div>
