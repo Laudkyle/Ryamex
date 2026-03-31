@@ -81,17 +81,17 @@ const Contact = () => {
                 {
                   icon: MapPin,
                   title: 'Head Office',
-                  content: '123 Distribution Street, Industrial Area, Accra, Ghana'
+                  content: 'Hse. No. B921 Naa Kwakor Street, New Gbawe'
                 },
                 {
                   icon: Phone,
                   title: 'Phone',
-                  content: ['+233 24 123 4567 (Office)', '+233 50 987 6543 (Mobile)']
+                  content: ['0244730898233 (Mobile)', ' 0302336998 (Office)']
                 },
                 {
                   icon: Mail,
                   title: 'Email',
-                  content: ['info@ryamexventures.com', 'sales@ryamexventures.com']
+                  content: ['info@ryamex.com', 'ryamexyz@gmail.com']
                 }
               ].map(({ icon: Icon, title, content }, index) => (
                 <div key={index} className="flex items-start">
