@@ -13,12 +13,7 @@ const services = [
     description: 'Our extensive network covers all regions of Ghana, ensuring timely delivery to urban and rural areas alike.',
     gradient: 'from-emerald-500/20 to-blue-500/20'
   },
-  {
-    title: 'Inventory Management',
-    icon: BarChart,
-    description: 'Advanced tracking systems to maintain optimal stock levels and prevent shortages or overstocking.',
-    gradient: 'from-yellow-400/20 to-yellow-600/20'
-  },
+  
   {
     title: 'Marketing Support',
     icon: Megaphone,
@@ -50,7 +45,7 @@ const Services = () => {
         </div>
 
         {/* Service Cards */}
-        <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
+        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-12">
           {services.map((service, index) => {
             const Icon = service.icon;
             return (
