@@ -38,9 +38,10 @@ const Footer = () => {
             <address className="not-italic text-gray-400 space-y-2">
               <p>123 Distribution Street</p>
               <p>Hse. No. B921 
-Naa Kwakor Street, New Gbawe</p>
-              <p>Ghana</p>
-              <p>Phone: 0244730898, 0302336998</p>
+Naa Kwakor Street</p>
+              <p> New Gbawe, Ghana</p>
+              <p>Phone (Mobile): 0244730898 </p>
+              <p>Phone (Office): 0302336998</p>
               <p>Email: ryamexyz@gmail.com</p>
             </address>
           </div>
