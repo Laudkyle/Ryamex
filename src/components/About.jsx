@@ -75,17 +75,13 @@ const About = () => {
             </h3>
             <div className="space-y-5 text-lg text-gray-300 leading-relaxed">
               <p>
-                RYAMEX VENTURES is a supply and distribution powerhouse with a robust nationwide
-                network, connecting global and local beverage brands to every region in Ghana.
+               RYAMEX VENTURES is a supply and distribution powerhouse with a robust nationwide network, connecting global and local brands to every region in Ghana
               </p>
               <p>
-                We specialize in high-efficiency logistics, on-time delivery, and strategic market
-                reach, making us the go-to partner for ambitious brands looking to scale their
-                footprint.
+               We specialize in the supply and distribution of beverages, cleaning products, and household essentials, ensuring high-efficiency logistics, on-time delivery, and strategic market reach. In addition, we are actively engaged in the sale of live pigs and pork meat, supplying both retail and bulk buyers across our network.
               </p>
               <p>
-                Our commitment to excellence, innovation, and strong partnerships has earned us a
-                reputation as the most reliable distributor in the country.
+              Our integrated approach to sourcing, distribution, and market access makes us the go-to partner for ambitious brands and customers looking to scale their footprint and meet growing demand.Our commitment to excellence, innovation, and strong partnerships has earned us a reputation as one of the most reliable distributors in the country.
               </p>
             </div>
 
