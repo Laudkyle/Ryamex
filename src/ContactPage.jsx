@@ -47,17 +47,17 @@ const ContactPage = () => {
             {
               icon: Phone,
               title: 'Call Us',
-              info: '0555866711',
+              info: '0244730898',
             },
             {
               icon: Mail,
               title: 'Email',
-              info: 'aptbookvps@gmail.com',
+              info: 'ryamexyz@gmail.com',
             },
             {
               icon: MapPin,
               title: 'Location',
-              info: 'Accra, Ghana',
+              info: 'Naa Kwakor Street, New Gbawe. Ghana',
             }
           ].map((item, i) => {
             const Icon = item.icon;
