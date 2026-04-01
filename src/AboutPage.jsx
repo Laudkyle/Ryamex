@@ -58,22 +58,22 @@ const AboutPage = () => {
 
   const founders = [
     {
-      name: 'Kwame Asante',
+      name: 'Mary Ofosua Agyepong',
       role: 'Co-Founder & CEO',
       image: '/api/placeholder/400/500',
       bio: 'Visionary leader transforming Ghana\'s beverage distribution landscape.',
       focus: 'Strategic Leadership'
     },
     {
-      name: 'Ama Osei',
-      role: 'Co-Founder & Operations Director',
+      name: 'Mr. Constant Ekow Takyi',
+      role: 'Co-Founder & Manager',
       image: '/api/placeholder/400/500',
       bio: 'Operations mastermind ensuring seamless nationwide distribution.',
       focus: 'Supply Chain Excellence'
     },
     {
-      name: 'Yaw Mensah',
-      role: 'Co-Founder & Finance Director',
+      name: 'Mr. Hans Owusu Boateng',
+      role: 'Legal',
       image: '/api/placeholder/400/500',
       bio: 'Financial architect driving sustainable growth and partnerships.',
       focus: 'Business Development'
